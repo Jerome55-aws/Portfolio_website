@@ -134,11 +134,13 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
-		font-weight: 400;
+	h2, h3, h4, h5, h6 {
+		color: black;
+		font-weight: 550;
 		line-height: 1em;
 		margin: 0 0 1em 0;
+		text-align: center;
+		
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -157,7 +159,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
